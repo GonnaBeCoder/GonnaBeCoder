@@ -1,7 +1,7 @@
 -  #About me 
 -  👋 Hey there! I'm BADRINATH REDDY , a passionate student with a love for crafting elegant solutions to complex problems. I'm constantly exploring new technologies and an endless zeal to expand my knowledge and skills in the ever-evolving world of software development.
 -  #My journey
-- 👀 I embarked on my coding journey [X years ago], and since then, I've been on an exciting adventure through the realms of programming, tackling a diverse range of projects and challenges. From web development and mobile apps to data analysis and machine learning, I'm always excited to dive into new domains
+- 👀 I embarked on my coding journey 1 year ago, and since then, I've been on an exciting adventure through the realms of programming, tackling a diverse range of projects and challenges. From web development and mobile apps to data analysis and machine learning, I'm always excited to dive into new domains
 -  #My learnings
 -  🌱 **Coding:** My fingers dance across the keyboard as I bring ideas to life through code. The thrill of seeing lines of logic translate into functional software is truly my happy place.
 -  **Problem Solving:** There's nothing quite like the satisfaction of cracking a tough problem. I love to dissect challenges, experiment with creative solutions, and celebrate those "aha!" moments.
