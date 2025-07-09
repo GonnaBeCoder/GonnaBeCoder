@@ -8,9 +8,9 @@
 -  **TYPING:** I am a moderate typer. I can type upto 45 words per minute . 
 -  ## My Tech Stack
 -  I'm comfortable working with a variety of technologies, including but not limited to:
-- Programming Languages: JavaScript, Python, Java ,c ,c++.
-- Frontend: HTML, CSS, React
-- Backend: Node.js, Express
+- Programming Languages: C / C++ , Python
+- Frontend: HTML, CSS 
+- AI/ML :- Ollama, Langchain 
 - Databases: MongoDB, SQL
 - Tools:VS Code
 - #Let's connect
