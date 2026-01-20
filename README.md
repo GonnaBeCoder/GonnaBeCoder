@@ -1,76 +1,43 @@
-<!-- HEADER -->
+<!-- Animated Typing Header -->
 <div align="center">
-  <h1>Hey there, I'm Badrinath 👋</h1>
-  <p>
-    <em>AI/ML & Software Engineer | Obsessed with building meaningful products that people love using</em>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Badrinath+Reddy;CSE+Student+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Apps+%26+Clean+UIs;Future+Software+Engineer+in+the+Making" alt="Typing SVG" />
+</div>
+
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 ---
 
-<!-- PROFILE BADGES -->
+## 🚀 About Me
+
 <div align="center">
-  <!-- Visitor Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=GonnaBeCoder&style=flat-square)
 
-  <!-- GitHub Stats -->
-  ![Badrinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonnaBeCoder&show_icons=true&theme=radical)
+🎓 **B.Tech CSE (AI/ML) Student**  
+🤖 Passionate about **AI, Chatbots & Intelligent Systems**  
+💻 Love building **full-stack + AI-powered projects**  
+🔥 Focused on becoming **placement & industry ready**
 
-  <!-- Top Languages -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaBeCoder&layout=compact)
 </div>
 
----
-
-## 👨‍💻 About Me
-I’m **Chaddi Badrinath Reddy**, a passionate **Computer Science student specializing in AI/ML** and a builder at heart. I thrive on turning ideas into real, usable software — from intelligent chatbots to full-stack web apps. I love clean code, sleek UI, and designing solutions that scale.
-
-- 🎓 Pursuing B.Tech in CSE with AI/ML specialization  
-- 🚀 Completed AI & ML internships, built NLP chatbots, and deployed real-world projects  
-- 💻 Comfortable across AI, backend, frontend, and cloud workflows  
-- 🌱 Focused on quality, readability, and robust engineering practices
+I’m **Badrinath Reddy**, a builder who enjoys turning ideas into working software.  
+From AI chatbots to web applications, I love working across the stack and learning by doing.  
+Clean code, meaningful UI, and real-world impact matter to me.
 
 ---
 
-## 💼 What I Do
-- 🔹 Build **AI-powered applications** (Chatbots, RAG systems, Vision/ML tools)  
-- 🔹 Design **clean, efficient software** with attention to detail  
-- 🔹 Experiment with **LangChain, Ollama, and modern AI toolkits**  
-- 🔹 Deliver **end-to-end products** using Python, TypeScript, Next.js, and Node.js
+## 💫 What Drives Me
 
----
+```cpp
+class Badrinath {
+public:
+    string role = "CSE Student (AI/ML)";
+    string mindset = "Build. Break. Learn. Repeat.";
+    vector<string> interests = {"AI Agents", "Chatbots", "Web Apps", "DSA"};
+    string currentGoal = "Crack placements with strong projects & skills";
 
-## 🛠 My Tech Stack
-
-### 🔧 Languages
-Python | C++ | JavaScript | TypeScript
-
-### 🧠 AI & ML
-TensorFlow | PyTorch | LangChain | Ollama | scikit-learn
-
-### 💻 Web & Backend
-Next.js | React | Node.js | Express | REST APIs
-
-### 🗄 Databases & Dev Tools
-MongoDB | SQL | Git | Docker | Linux | VS Code
-
----
-
-## 📌 Featured Projects
-
-### 💡 AI Interview Chatbot
-**AI-powered interview chatbot with contextual replies and resume-ready logic**  
-🔗 https://github.com/GonnaBeCoder/Ai-Interview-Chatbot
-
-### 🕸 AI Web Scrapper
-**RAG web scraper using Ollama + LangChain**  
-🔗 https://github.com/GonnaBeCoder/AI-Webscrapper
-
-*(Add more projects or replace with your best ones — link + description + tech used)*
-
----
-
-## 📈 GitHub Stats
-
-📊 Here’s how I’ve been coding lately:
-
+    vector<string> dailyRoutine() {
+        return {"Code 💻", "Learn 🧠", "Build 🚀", "Improve 🔁"};
+    }
+};
