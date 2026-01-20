@@ -1,26 +1,76 @@
--  #About me 
--  👋 Hey there! I'm BADRINATH REDDY , a passionate student with a love for crafting elegant solutions to complex problems. I'm constantly exploring new technologies and an endless zeal to expand my knowledge and skills in the ever-evolving world of software development.
--  #My journey
-- 👀 I embarked on my coding journey 1 year ago, and since then, I've been on an exciting adventure through the realms of programming, tackling a diverse range of projects and challenges. From web development and mobile apps to data analysis and machine learning, I'm always excited to dive into new domains
--  #My learnings
--  🌱 **Coding:** My fingers dance across the keyboard as I bring ideas to life through code. The thrill of seeing lines of logic translate into functional software is truly my happy place.
--  **Problem Solving:** There's nothing quite like the satisfaction of cracking a tough problem. I love to dissect challenges, experiment with creative solutions, and celebrate those "aha!" moments.
--  **TYPING:** I am a moderate typer. I can type upto 45 words per minute . 
--  ## My Tech Stack
--  I'm comfortable working with a variety of technologies, including but not limited to:
-- Programming Languages: C / C++ , Python
-- Frontend: HTML, CSS 
-- AI/ML :- Ollama, Langchain 
-- Databases: MongoDB, SQL
-- Tools:VS Code
-- #Let's connect
-- 📫 I'm always eager to connect with fellow developers, share experiences, and collaborate on exciting projects. Feel free to reach out to me on  [LinkedIn](https://www.linkedin.com/in/badrinath-reddy-98785a279) or at [Leet code](https://leetcode.com/ch_badrinathreddy/). Let's learn and grow together!
+<!-- HEADER -->
+<div align="center">
+  <h1>Hey there, I'm Badrinath 👋</h1>
+  <p>
+    <em>AI/ML & Software Engineer | Obsessed with building meaningful products that people love using</em>
+  </p>
+</div>
 
-Looking forward to the endless possibilities that coding brings.
+---
 
-Happy coding! 🚀
+<!-- PROFILE BADGES -->
+<div align="center">
+  <!-- Visitor Counter -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=GonnaBeCoder&style=flat-square)
 
-<!---
-GonnaBeCoder/GonnaBeCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <!-- GitHub Stats -->
+  ![Badrinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonnaBeCoder&show_icons=true&theme=radical)
+
+  <!-- Top Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaBeCoder&layout=compact)
+</div>
+
+---
+
+## 👨‍💻 About Me
+I’m **Chaddi Badrinath Reddy**, a passionate **Computer Science student specializing in AI/ML** and a builder at heart. I thrive on turning ideas into real, usable software — from intelligent chatbots to full-stack web apps. I love clean code, sleek UI, and designing solutions that scale.
+
+- 🎓 Pursuing B.Tech in CSE with AI/ML specialization  
+- 🚀 Completed AI & ML internships, built NLP chatbots, and deployed real-world projects  
+- 💻 Comfortable across AI, backend, frontend, and cloud workflows  
+- 🌱 Focused on quality, readability, and robust engineering practices
+
+---
+
+## 💼 What I Do
+- 🔹 Build **AI-powered applications** (Chatbots, RAG systems, Vision/ML tools)  
+- 🔹 Design **clean, efficient software** with attention to detail  
+- 🔹 Experiment with **LangChain, Ollama, and modern AI toolkits**  
+- 🔹 Deliver **end-to-end products** using Python, TypeScript, Next.js, and Node.js
+
+---
+
+## 🛠 My Tech Stack
+
+### 🔧 Languages
+Python | C++ | JavaScript | TypeScript
+
+### 🧠 AI & ML
+TensorFlow | PyTorch | LangChain | Ollama | scikit-learn
+
+### 💻 Web & Backend
+Next.js | React | Node.js | Express | REST APIs
+
+### 🗄 Databases & Dev Tools
+MongoDB | SQL | Git | Docker | Linux | VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 💡 AI Interview Chatbot
+**AI-powered interview chatbot with contextual replies and resume-ready logic**  
+🔗 https://github.com/GonnaBeCoder/Ai-Interview-Chatbot
+
+### 🕸 AI Web Scrapper
+**RAG web scraper using Ollama + LangChain**  
+🔗 https://github.com/GonnaBeCoder/AI-Webscrapper
+
+*(Add more projects or replace with your best ones — link + description + tech used)*
+
+---
+
+## 📈 GitHub Stats
+
+📊 Here’s how I’ve been coding lately:
+
